@@ -415,7 +415,7 @@
     
     - 查看AP/无线路由器支持哪些工作模式
     
-      参考[this](https://blog.csdn.net/luck_good/article/details/24047619)，查看配置wirelesse配置文件并修改mode为其他
+      参考[this](https://blog.csdn.net/luck_good/article/details/24047619)，查看配置wireless配置文件并修改mode为其他
     
       ```txt
       config wifi-iface 'default_radio0'
