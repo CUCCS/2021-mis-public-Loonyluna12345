@@ -997,7 +997,7 @@ For smali/baksmali info, see: https://github.com/JesusFreke/smali
 
 - 打开emulator，install程序，先用`jack Jack@123$`登陆一个，再用`devadmin 123`登陆一个
 
-- 在AndroidManifest.xml，如图找到应用中声明的broadcast receiver
+- 在AndroidManifest.xml，如图找到应用中声明的content provider
 
   ![](img/trackuserprovider.PNG)
 
